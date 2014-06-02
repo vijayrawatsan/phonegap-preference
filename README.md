@@ -1,0 +1,1 @@
+This is a plugin to add custom preferences to app.
